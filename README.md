@@ -13,7 +13,7 @@ Cara menjalakan program:
  
 # Untuk penjelasan program berupa PDF silahkan kunjungi link berikut:
 
-https://bit.ly/Modulprogramnilaimahsiswa
+https://github.com/Satriashandy77/shandy/files/10370121/Modul_Program_Nilai_Mahasiswa_.Shandy_Satria_Mandala.1.pdf
 
 # Untuk program penjelasan berupa video youtube silahkan kunjungi link berikut:
 
